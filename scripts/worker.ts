@@ -1,4 +1,3 @@
-cat > /var/www/movyads/scripts/worker.ts <<'EOF'
 import "dotenv/config";
 
 type Json = Record<string, unknown>;
